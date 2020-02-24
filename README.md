@@ -28,4 +28,4 @@ flask
 ```
 
 # Issues
-can't overwrite html map with locations, app uses cached map
+can't overwrite html map with locations, app uses cached map, so just save a new map for every user
